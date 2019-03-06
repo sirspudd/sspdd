@@ -28,8 +28,9 @@ navbar-links:
     - Creation myth with pluck: "https://phys.org/news/2013-07-chimp-pig-hybrid-humans.html"
   Recipes:
     - Crunchies: "recipes/crunchies"
-  With Gratitude:
+  Good shit:
     - Cloudron: "https://cloudron.io/"
+    - Arch: "https://www.archlinux.org/"
     - Qt: "https://www.qt.io/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   Chaos Reins: "https://www.chaos-reins.com"
@@ -81,6 +82,7 @@ social-network-links:
   twitter: sirspudd
 #  reddit: yourname
   google-plus: +DonaldPaulCarr
+  youtube: user/sirspudd
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -98,6 +100,7 @@ share-links-active:
   twitter: true
   google: true
   github: true
+  youtube: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

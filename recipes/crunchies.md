@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Crunchies
 subtitle: Gods gift to mammals/culinary cookie refugees in the United States
 ---

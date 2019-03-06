@@ -24,6 +24,8 @@ description: Not the dopiest crud you have encountered today
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Recipes:
+    - Crunchies: "recipes/crunchies"
   With Gratitude:
     - Cloudron: "https://cloudron.io/"
     - Qt: "https://www.qt.io/"

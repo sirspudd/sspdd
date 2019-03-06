@@ -24,6 +24,8 @@ description: Not the dopiest crud you have encountered today
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Cool concepts:
+    - Creation myth with pluck: "https://phys.org/news/2013-07-chimp-pig-hybrid-humans.html"
   Recipes:
     - Crunchies: "recipes/crunchies"
   With Gratitude:

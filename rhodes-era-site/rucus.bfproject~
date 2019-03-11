@@ -1,0 +1,9 @@
+name: Rucus
+basedir: /mnt/rucus/www/
+webdir: 
+template: 
+view_main_toolbar: 1
+view_left_panel: 1
+view_custom_menu: 1
+view_html_toolbar: 1
+word_wrap: 0

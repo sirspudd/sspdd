@@ -4,7 +4,7 @@ title: Crunchies
 subtitle: Gods gift to mammals/culinary cookie refugees in the United States
 ---
 
-"This is what you would feed people if you were breeding them for meat" - Elen
+"This is what you would feed people if you were breeding them for meat" - Ellen
 
 "i feel like they're probably what the elves gave the hobbits when they left for mordor; i eat one and I'm full for half a day" - Gerrit
 

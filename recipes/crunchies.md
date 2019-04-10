@@ -4,6 +4,12 @@ title: Crunchies
 subtitle: Gods gift to mammals/culinary cookie refugees in the United States
 ---
 
+"This is what you would feed people if you were breeding them for meat" - Elen
+
+"i feel like they're probably what the elves gave the hobbits when they left for mordor; i eat one and I'm full for half a day" - Gerrit
+
+"Your crunchies are inferior to the kiwi's mothers' Anzac bloody cookie. By the by, you arent an Anzac." - bozo squad
+
 I wont bore you with the history or the sales pitch; if you are from the Southern Hemisphere, you know what a bloody [Anzac cookie is](https://en.wikipedia.org/wiki/Anzac_biscuit). Growing up in Durban, South Africa, these things were everywhere and were/are the defining baseline/bassline of any/every birthday party.
 
 As an adult the virtues are pretty bloody clear

@@ -12,6 +12,8 @@ subtitle: Gods gift to mammals/culinary cookie refugees in the United States
 
 I wont bore you with the history or the sales pitch; if you are from the Southern Hemisphere, you know what a bloody [Anzac cookie is](https://en.wikipedia.org/wiki/Anzac_biscuit). Growing up in Durban, South Africa, these things were everywhere and were/are the defining baseline/bassline of any/every birthday party.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/91EbLcM0y3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 As an adult the virtues are pretty bloody clear
 
 - Some people aren't gonna like em. Good, fuck em. The commercial cookie scene in the US is pretty bloody gory and the people behind Mr's Fields cookies are catering to a living (mouth) breathing audience.

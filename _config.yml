@@ -86,8 +86,7 @@ social-network-links:
   email: "d@chaos-reins.com"
   github: sirspudd
   twitter: sirspudd
-#  reddit: yourname
-  google-plus: +DonaldPaulCarr
+  reddit: sirspudd
   youtube: user/sirspudd
 #  linkedin: daattali
 #  xing: yourname
@@ -104,7 +103,6 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  google: true
   github: true
   youtube: true
 

@@ -117,7 +117,7 @@ url-pretty: "sspdd.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
-google_analytics_id: UA-80976709-2
+google_analytics: UA-80976709-2
 
 # Google Tag Manager ID
 #gtm: ""

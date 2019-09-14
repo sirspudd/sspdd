@@ -34,7 +34,7 @@ navbar-links:
   Cool clips:
     - True Facts: "https://www.youtube.com/watch?v=F5FEj9U-CJM"
     - Hot Ones: "https://www.youtube.com/watch?v=8Lvrikv6oPs"
-  Good shit:
+  Cool shit:
     - Cloudron: "https://cloudron.io/"
     - Arch Linux: "https://www.archlinux.org/"
     - Qt: "https://www.qt.io/"
@@ -42,6 +42,9 @@ navbar-links:
     - IQ: "http://www.iquilezles.org/www/index.htm"
     - ShaderToy: "https://www.shadertoy.com/"
     - Woboq: "https://woboq.com/blog/"
+  Cool games:
+    - Resogun
+    - Little Big Adventure: "https://store.steampowered.com/app/397330/Little_Big_Adventure__Enhanced_Edition/"
   Chaos Reins: "https://www.chaos-reins.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)

@@ -28,7 +28,7 @@ In any case; recipes abound, I have cribbed considerations off many and hence I 
 - 5 cups of raw rolled oats (no instant oats, the moisture defeats the purpose)
 - 1 cup of flour (ideally not soulless)
 - 1 cup of brown sugar
-- 1 tablespoon of salt (clearly this should be to taste, and be cautious, but this is kinda the point of the cookie)
+- 2 teaspoons of salt (clearly this should be to taste, and be cautious, but this is kinda the point of the cookie)
 - 1/2 cup [Lyle's golden syrup](https://www.lylesgoldensyrup.com/) or [make your own as I do when Lyle's is prohibitively expensive](http://www.chefeddy.com/2009/11/invert-sugar/)
 - 2 cups of trader joes shredded coconut or 1 cup if you are using a more high density coconut (the longer the coconut segments, the lower the coconut density)
 - 1 teaspoon bicarbonate of soda

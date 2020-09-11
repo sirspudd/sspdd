@@ -2,8 +2,7 @@
 layout: post
 title: Revisiting Android on the Samsung Galaxy S9+ after using an iPhone X for 2 years
 subtitle: methinks the lad doth protest too much
-published: true
-tags: [Android, Samsung, Galaxy S9+]
+tags: [Android, Samsung, Galaxy S9]
 ---
 
 # Summary

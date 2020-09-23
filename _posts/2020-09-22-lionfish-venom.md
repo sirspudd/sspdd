@@ -3,7 +3,7 @@ layout: post
 title: Lionfish stings
 subtitle: methinks the lad doth protest too much
 date:   2020-09-22
-published: true
+published: false
 tags: [Diving, Lionfish, Puerto Rico]
 ---
 

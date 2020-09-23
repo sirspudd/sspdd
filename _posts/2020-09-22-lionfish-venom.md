@@ -9,7 +9,7 @@ tags: [Diving, Lionfish, Puerto Rico]
 
 # Lionfish
 
-[highly invasive tropical fish](https://en.wikipedia.org/wiki/Pterois)
+[Wikipedia overview](https://en.wikipedia.org/wiki/Pterois)
 
 ![lionfish example](2020-09-22-lionfish-venom/1920px-Red_lionfish_near_Gilli_Banta_Island.JPG)
 

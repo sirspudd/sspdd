@@ -48,3 +48,49 @@ In any case; recipes abound, I have cribbed considerations off many and hence I 
 
 - 60 minutes gets you a very very dark cookie; possibly too much for some people.
 - 30 minutes gets you a good looking cookie, but with the ratios above it is unlikely to be cooked in the middle which is highly unfortunate.
+
+# Needle leaves vinyl
+
+## GPT 3 backstory
+
+### seed
+
+[https://app.inferkit.com/demo](https://app.inferkit.com/demo)
+
+"I remember the day the aliens swept me up, showed me their wonders and enlightened me on the greatest cookie recipe of all time."
+
+### origin myth bollocks
+
+The day I saw the face of God.
+
+The day I lost my virginity.
+
+And the day I realized that being a mom meant you always risked waking up to vomit all over your bed sheets.
+
+And the day I was so sick from one too many tacos that I was struck with a sudden urge to hug my then five - year - old and pat my boobs.
+
+When I'd been able to go on only a couple of years postpartum with my daughter, I'd wished that my milk glands were located closer to my chin.
+
+(You know, because, if that's where they were, I wouldn't have to hold my shirt to myself just so I could nurse, which could be dangerous, seeing as, um, breasts.)
+
+So, yeah, I didn't remember this friend at all, having been out of touch with her.
+
+Not that I really cared, but I found it sort of amusing that she hadn't just called to let me know how much her son had grown over the last seven years, or to give me a heads up about the plans she had for the night.
+
+She'd called to deliver bad news - the news that my former husband had been arrested and booked on murder charges.
+
+The saddest part about it all is that I'd always felt like we were pretty close.
+
+Like he and I would have been close, if only he hadn't met my mom's previous boyfriend, the one with the two - gun concealed carry permit who raped her repeatedly in the back of his pickup while he was strung out on drugs and meth.
+
+She'd been hoping that he'd end up being the one to die in the crash, so that she could claim my father's insurance benefits and put down on a house for her and my sister.
+
+But it wasn't to be.
+
+It was the cousin, my dear cousin, who died - his wife's parents' former house and all its contents gone in an instant.
+
+The guy had been in prison for quite some time, on a ten - year sentence for involuntary manslaughter, and was set to be released on parole in a few months.
+
+My mom thought that was the only reason he'd have gone out on that particular day, and that she'd seen him at the tire shop.
+
+When she'd shown me the crime

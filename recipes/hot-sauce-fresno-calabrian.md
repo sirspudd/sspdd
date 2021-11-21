@@ -16,7 +16,7 @@ As with most things I prepare, there is wiggle room and few absolutes
 
 ## Ingredients
 
-* TuttoCalabria, Crushed Calabrian Chili Pepper 33.5oz/950g (Brand to hand, explore at will)
+* [TuttoCalabria](https://smile.amazon.com/gp/product/B00CBMJ7CW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), Crushed Calabrian Chili Pepper 33.5oz/950g (Brand to hand, explore at will)
 * 2 lbs fresh fresno chillies
 * 1 head of garlic, roasted
 

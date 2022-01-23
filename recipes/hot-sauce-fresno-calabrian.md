@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Funky Fruity Fathomless Fermented Fresno/Calabrian chillie grunge/sauce
+comments: true
 subtitle: Attempt at recreating Che Fico's awesome Calabrian Chili Bomba
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Crunchies
+comments: true
 subtitle: Gods gift to mammals/culinary cookie refugees in the United States
 ---
 

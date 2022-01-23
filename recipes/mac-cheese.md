@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Macaroni Cheese
+comments: true
 subtitle: Plush mac cheese kicking with flavour
 ---
 

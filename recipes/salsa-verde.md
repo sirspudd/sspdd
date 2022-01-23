@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tomatillo Salsa Verde
+comments: true
 subtitle: Decent El Farolito green salsa stand in; oh so very green, peeps aren't exaggerating the verdancy
 ---
 

@@ -38,7 +38,7 @@ In any case; recipes abound, I have cribbed considerations off many and hence I 
 1. Mix the dry ingredients in a baking container (except the sugar).
 2. Melt the butter in a pan over low heat.
 3. Add the sugar and syrup to the melted butter.
-4. Increase the heat, dissolve the bicard of soda in a shot glass with a little warm water and add to the butter.
+4. Increase the heat, dissolve the bicarb of soda in a shot glass with a little warm water and add to the butter.
 5. This mixture should froth on the addition of the dissolved bicarb, continue to stir while this frothing occurs until the temperature creeps towards a point where you would not longer want to touch it.
 6. Dump this frothed butter/sugar/syrup mixture over the dry ingredients mixed earlier and mix well/uniformly with a spoon and/or your paws.
 7. Throw your baking container into the oven.

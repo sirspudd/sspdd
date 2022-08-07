@@ -42,6 +42,8 @@ I am normally an Arch fiend, but I have a lot of love for Fedora and their aarch
 
 Building my yocto OS under Fedora allowed me to actually hit a memory bottleneck for the first time. My cores were humming and I managed to run out of the 27.7G I had allotted; I am actually stoked/impressed why my cores do enough work to choke out that much memory. I normally hit a CPU throughput ceiling well before I hit a memory ceiling. 
 
+Parallels also does not make it very easy to pass through the performance cores and hold on to the efficiency cores. I basically want Mac OS to have perpetual access to the efficiency cores, and I want the build VM to be loading the performance cores. Parallels just had a knob which let me pass through 1-10 cores.
+
 ## Building a Yocto OS on an aarch64 host
 
 On a positive note, it was comparatively trivial to get Yocto spitting out SDKs for an aarch64 host. The only real adjustment I had to make was within our own software realm which assumed an intel host and an ARM target. It speaks volumes about the thoroughness and competence across the community that everything else largely worked out the box. (We also thankfully don't use custom allocators like jemalloc and other pieces of code which were/are known to blow up with 16kb page sizes)

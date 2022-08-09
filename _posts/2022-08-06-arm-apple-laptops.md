@@ -17,6 +17,15 @@ My daily job involves C++ development and the ongoing design of a custom yocto O
 
 I also work with embedded ARM devices, have done so for over a decade and am used to what is normally passed off as a BSP by ARM hardware vendors. Anyone hoping for something as functional as the M1 emerging outside of Apple better get their prayer game on because the average ARM vendor takes a shit on the chest of their customers, and by proxy their customers customers. You don't have to believe in trickle down economics to believe in trickle down technical debt. Now that Google is making their own chips, you might in the future be able to sacrifice your privacy for a reasonable ARM consumer device. It would be hard for me to overstate Qualcomm's role in screwing consumers and napalming the ARM ecosystem. The whole reason I moved away from Android is because on principle I will never buy another Qualcomm based handset while I can afford to vote with my wallet. Qualcomm is the face of patent Trolldom for me.
 
+## Benchmarking
+
+I am compiling a mid sized C++ code base as my primary benchmark:
+
+1) Clear all artifacts in the repo
+2) Clear all system caches
+3) qmake -r
+4) time make
+
 # Platforms
 
 * M1 Macbook air, base configuration (awesome value)
@@ -44,6 +53,22 @@ Building my yocto OS under Fedora allowed me to actually hit a memory bottleneck
 
 Parallels also does not make it very easy to pass through the performance cores and hold on to the efficiency cores. I basically want Mac OS to have perpetual access to the efficiency cores, and I want the build VM to be loading the performance cores. Parallels just had a knob which let me pass through 1-10 cores.
 
+Benchmark output: make  6593.12s user 739.22s system 720% cpu 16:57.13 total
+
+## Fedora running under a modified GuiLinuxVirtualMachineSampleApp
+
+Apple now natively support virtualization
+
+[https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac](https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac)
+
+I grabbed the sample app, changed the signing attributes to reflect my user, clicked the play button and I was away. (The first time it actually failed to generate a machine identifier and some other things, but a fresh restart (deleting the partial project) resolved all woes). I then modified the project to pass through all cores, make the disk substantially larger and pass through 24G of ram. The code is very human readable; I am impressed.
+
+I installed fedora as per usual using their aarch64 installer.
+
+Benchmarking output: make  3242.05s user 338.41s system 817% cpu 7:17.99 total
+
+So using the sample app for the Apple Virtualization APIs, I was able to halve the compile time of the primary code base I work against. I have to say it feels incredibly empowering to be running Linux in your own VM app which you can modify to your needs.
+
 ## Building a Yocto OS on an aarch64 host
 
 On a positive note, it was comparatively trivial to get Yocto spitting out SDKs for an aarch64 host. The only real adjustment I had to make was within our own software realm which assumed an intel host and an ARM target. It speaks volumes about the thoroughness and competence across the community that everything else largely worked out the box. (We also thankfully don't use custom allocators like jemalloc and other pieces of code which were/are known to blow up with 16kb page sizes)
@@ -70,7 +95,3 @@ This hardware is lovely; I consider it an affront that Metal is the only game in
 ## Emulating AMD64 OSes
 
 This one is probably largely on me, but I just want to make it crystal clear that if you do attempt to run a virtualized AMD64 OS, it will be as slow as mollases. If there is a fast path there, I have not seen it.
-
-## Apples Virtualisation Framework
-
-Ideally I can get Fedora running on Apple's Virtualizatin Framework without any Parallels participation and with less overhead. This is in the drawback column at present as information is thin on the ground; I tried to compile a reference Application from Apple which is meant to facilitate this, and I stumbled at the signing point.

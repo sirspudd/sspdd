@@ -148,6 +148,85 @@ GPU Power: 109 mW
 Package Power: 31688 mW
 ```
 
+The same metrics in high power mode
+
+```
+sh-3.2# /usr/bin/powermetrics -s cpu_power -n 1
+Machine model: MacBookPro18,2
+OS version: 22A5321d
+Boot arguments: 
+Boot time: Fri Aug 12 17:02:12 2022
+
+
+
+*** Sampled system activity (Tue Aug 16 23:56:26 2022 +0200) (5007.65ms elapsed) ***
+
+
+**** Processor usage ****
+
+E-Cluster Online: 100%
+E-Cluster Power: 362 mW
+E-Cluster HW active frequency: 2063 MHz
+E-Cluster HW active residency:  98.29% (600 MHz:   0% 972 MHz: .01% 1332 MHz: .09% 1704 MHz: .02% 2064 MHz: 100%)
+E-Cluster idle residency:   1.71%
+E-Cluster instructions retired: 1.67035e+10
+E-Cluster instructions per clock: 1.19733
+CPU 0 frequency: 2063 MHz
+CPU 0 idle residency:  25.59%
+CPU 0 active residency:  74.41% (600 MHz:   0% 972 MHz: .01% 1332 MHz: .09% 1704 MHz: .00% 2064 MHz:  74%)
+CPU 1 frequency: 2063 MHz
+CPU 1 idle residency:  39.37%
+CPU 1 active residency:  60.63% (600 MHz:   0% 972 MHz: .01% 1332 MHz: .08% 1704 MHz: .00% 2064 MHz:  61%)
+
+P0-Cluster Online: 100%
+P0-Cluster Power: 11296 mW
+P0-Cluster HW active frequency: 3036 MHz
+P0-Cluster HW active residency:  99.98% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz: .02% 2904 MHz:   0% 3036 MHz: 100% 3132 MHz: .08% 3168 MHz: .08% 3228 MHz: .01%)
+P0-Cluster idle residency:   0.02%
+P0-Cluster instructions retired: 1.36566e+11
+P0-Cluster instructions per clock: 2.25112
+CPU 2 frequency: 3228 MHz
+CPU 2 idle residency:   0.14%
+CPU 2 active residency:  99.86% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz:   0% 2904 MHz:   0% 3036 MHz:   0% 3132 MHz:   0% 3168 MHz:   0% 3228 MHz: 100%)
+CPU 3 frequency: 3228 MHz
+CPU 3 idle residency:   0.14%
+CPU 3 active residency:  99.86% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz:   0% 2904 MHz:   0% 3036 MHz:   0% 3132 MHz:   0% 3168 MHz:   0% 3228 MHz: 100%)
+CPU 4 frequency: 3228 MHz
+CPU 4 idle residency:   0.15%
+CPU 4 active residency:  99.85% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz:   0% 2904 MHz:   0% 3036 MHz:   0% 3132 MHz:   0% 3168 MHz:   0% 3228 MHz: 100%)
+CPU 5 frequency: 3228 MHz
+CPU 5 idle residency:   0.17%
+CPU 5 active residency:  99.83% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz:   0% 2904 MHz:   0% 3036 MHz:   0% 3132 MHz:   0% 3168 MHz:   0% 3228 MHz: 100%)
+
+P1-Cluster Online: 100%
+P1-Cluster Power: 11624 mW
+P1-Cluster HW active frequency: 3036 MHz
+P1-Cluster HW active residency:  99.98% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz: .00% 2904 MHz:   0% 3036 MHz: 100% 3132 MHz: .06% 3168 MHz: .08% 3228 MHz: .02%)
+P1-Cluster idle residency:   0.02%
+P1-Cluster instructions retired: 1.4064e+11
+P1-Cluster instructions per clock: 2.31686
+CPU 6 frequency: 3228 MHz
+CPU 6 idle residency:   0.09%
+CPU 6 active residency:  99.91% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz:   0% 2904 MHz:   0% 3036 MHz:   0% 3132 MHz:   0% 3168 MHz:   0% 3228 MHz: 100%)
+CPU 7 frequency: 3228 MHz
+CPU 7 idle residency:   0.13%
+CPU 7 active residency:  99.87% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz:   0% 2904 MHz:   0% 3036 MHz:   0% 3132 MHz:   0% 3168 MHz:   0% 3228 MHz: 100%)
+CPU 8 frequency: 3228 MHz
+CPU 8 idle residency:   0.18%
+CPU 8 active residency:  99.82% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz:   0% 2904 MHz:   0% 3036 MHz:   0% 3132 MHz:   0% 3168 MHz:   0% 3228 MHz: 100%)
+CPU 9 frequency: 3228 MHz
+CPU 9 idle residency:   0.13%
+CPU 9 active residency:  99.87% (600 MHz:   0% 828 MHz:   0% 1056 MHz:   0% 1296 MHz:   0% 1524 MHz:   0% 1752 MHz:   0% 1980 MHz:   0% 2208 MHz:   0% 2448 MHz:   0% 2676 MHz:   0% 2904 MHz:   0% 3036 MHz:   0% 3132 MHz:   0% 3168 MHz:   0% 3228 MHz: 100%)
+
+System instructions retired: 2.9391e+11
+System instructions per clock: 2.17197
+ANE Power: 0 mW
+DRAM Power: 2461 mW
+CPU Power: 23282 mW
+GPU Power: 28 mW
+Package Power: 31067 mW
+```
+
 I would be a liar if I did not report increased instability when using GuiLinuxVirtualMachineSampleApp as my primary virtualized container; I have to click the stop button in xcode, restart it and fsck.ext4 my root drive pretty much once per session every time I use it. That said, I am not prepared to halve my performance by going back to Parallels. YOLO.
 
 ## Building a Yocto OS on an aarch64 host

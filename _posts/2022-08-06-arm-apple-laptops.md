@@ -21,10 +21,10 @@ I also work with embedded ARM devices, have done so for over a decade and am use
 
 I am compiling a mid sized C++ code base as my primary benchmark:
 
-1) Clear all artifacts in the repo
-2) Clear all system caches
-3) qmake -r
-4) time make
+1. Clear all artifacts in the repo
+2. Clear all system caches
+3. qmake -r
+4. time make
 
 # Platforms
 

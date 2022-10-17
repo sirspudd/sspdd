@@ -15,3 +15,4 @@ I purchased a Google Pixel 7 after learning just how disparate my iPhone 12s spe
 
 * On activating my Pixel 7 against the Google Fi account it was purchased against, I was seeing slower download speeds than on my iPhone. I spoke to Fi support, they suggested installing pending software updates; a security update! It took an hour to install, and put this on my radar [https://www.androidpolice.com/google-pixel-updates-too-slow/](https://www.androidpolice.com/google-pixel-updates-too-slow/)
 * I used to argue that Android was not shit, only the hardware manufacturers variants; looks like I might have to back off that assertion
+* You have to spelunk in the app store for app updates; WTF is that, why is there no avert prompt indicating the number of pending updates

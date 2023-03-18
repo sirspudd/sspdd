@@ -1,15 +1,21 @@
 ---
 layout: post
-title: Pixel 7 review: grim grim grim
-subtitle: Seamless updates take how long
-date:   2020-10-17
+title: Pixel 7 review; grim grim grim
+subtitle: Seamless updates after an eternity
+date:   2022-11-17
 published: true
 tags: [Android, Google Fi, Pixel 7]
 ---
 
-# Summary
+# Revisiting Android land
 
-I purchased a Google Pixel 7 after learning just how disparate my iPhone 12s speeds on Google Fi were from someone using T-Mobile. I was seeing 1.37 Mbps, she was seeing 36.55 Mbps. Purchased a Google Pixel 7 to use as a 5G AP and to see modern Android. It sucks donkey dong.
+I purchased a Google Pixel 7 after learning just how disparate my iPhone 12s speeds on Google Fi were from someone using T-Mobile. I was seeing 1.37 Mbps, she was seeing 36.55 Mbps. I therefore purchased a Google Pixel 7 to use as a 5G AP and in audit the modern realities of Android.
+
+# High points
+
+* No more Qualcomm monopoly on US Android devices
+* Software/hardware looks and feels relatively good
+* Not the worst burner phone to have as a backup
 
 # List of grievances
 

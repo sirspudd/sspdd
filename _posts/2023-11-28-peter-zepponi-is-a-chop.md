@@ -3,7 +3,7 @@ layout: post
 title: Peter A. Zepponi took the money and ran
 subtitle: Ah, ghosting in the professional sphere
 date:   2023-11-27
-published: true
+published: false
 tags: [Peter Zepponi, Architect, San Francisco, Napa]
 ---
 

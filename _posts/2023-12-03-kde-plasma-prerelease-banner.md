@@ -4,7 +4,7 @@ title: Get rid of the KDE 6 prerelease banner
 subtitle: OLED friendly KDE ahoy
 date:   2023-12-02
 published: true
-tags: [KDE 6, Qt]
+tags: [KDE 6, Qt, Beta]
 ---
 
 # KDE 6 installation/adoption

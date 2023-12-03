@@ -34,7 +34,7 @@ I run KDE with 3x3 virtual desktops on a 55inch LG CX; when I leave my desktop, 
 
 Unfortunately, the peeps who hack on this stuff have seen fit to include a fixed offset snipped of text in the bottom right hand side of the plasma workspace UI, utter ripe for burning in:
 
-![KDE Preview Release Banner](/img/kde6/plasma-prerelease-banner.jpg)
+![KDE Preview Release Banner](/img/plasma-prerelease-banner.jpg)
 
 I went spelunking to find the source code responsible for this atrocity, and to find out if there was a trivial way to toggle it.
 

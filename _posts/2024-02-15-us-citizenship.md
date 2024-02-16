@@ -2,7 +2,7 @@
 layout: post
 title: Becoming a yank
 subtitle: moenie panic
-date:   2024-02-15
+date:   2024-01-15
 published: true
 tags: [US, Citizenship, USCIS,N-445]
 ---

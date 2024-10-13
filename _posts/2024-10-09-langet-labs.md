@@ -3,7 +3,7 @@ layout: post
 title: Langet Laboratories
 subtitle: kept coke fizzy
 date:   2024-10-09
-published: true
+published: false
 tags: [retrospective, langet labs, durban]
 ---
 

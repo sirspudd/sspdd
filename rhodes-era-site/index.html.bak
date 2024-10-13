@@ -44,7 +44,7 @@ function closesubnav(event){
 <body onmousemove="closesubnav(event);"> 
 <div class="skipLinks">skip to: <a href="#content">page content</a> | <a href="pageNav">links on this page</a> | <a href="#globalNav">site navigation</a> | <a href="#siteInfo">footer (site information)</a> </div>
 <div id="masthead"> 
-  <h1 id="siteName">Donald Carr Honours page</h1>
+  <h1 id="siteName">Don Honours page</h1>
   <div id="globalNav"> 
     <img alt="" src="gblnav_left.gif" height="32" width="4" id="gnl"> <img alt="" src="glbnav_right.gif" height="32" width="4" id="gnr"> 
     <div id="globalLink"> 

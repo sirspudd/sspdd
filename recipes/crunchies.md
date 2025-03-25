@@ -25,6 +25,39 @@ As an adult the virtues are pretty bloody clear
 
 In any case; recipes abound, I have cribbed considerations off many and hence I cant cite every bloody influence. So follows my personal well worn recipe:
 
+# nutnurface uber cookie v15.2.3
+
+## dry component base
+
+toast ahead of incorporation for ~30 min at 180C (350F)
+
+- 3 cups of raw rolled oats
+- 1 cup of unsweetened coconut
+- 1 cup of black sesame seed
+- 2 cups hazel nuts
+- 2 cups of almonds
+- 1 cup of pecan nuts
+- 1 cup of pistachio
+
+## toffee
+
+- 454g Kerrygold butter (4 sticks, 2 bars, shit units)
+- half a cup of raw sugar
+- half a cup of honey
+- teaspoon of salt
+- teaspoon of citric acid
+- once this is up to temp, add a teaspoon of bicard of soda (well dispersed in a little warm water, I use a shot glass) to get the sugary frothing action and cook to your desired level of darkness. I go quite far with the crack point, and basically go until I get the impression burning is a problem.
+
+## final composition
+
+- Add half a cup of coconut flour, half a cup of gluten to the dry toasted components
+- At this point I would add anything which does not benefit from the pre-toast; this includes mixed peel or candied ginger, both of which elevate a cookie to a symphony. (One of my adoring fans accused me of putting a jazz band on stage at the same time as a rock back, so I guess the juxtaposition can be jarring)
+- Add this mixture to the toffee mixture. Mix well, decant to a baking tray, continue to bake at 180C for 20 minutes
+- I would recommend using a cleaver to articulate rows, which aids browning, and aids unpacking your baking sheet once these have eventually set
+- please note the cooking time on this recipe is well south of my original recipe. Basically, if you dump enough moisture in the toasting phase and candy making phase, you will not require much time to have an exceptionally well composed (read teflon) cookie 
+
+# version 0 (OG crunchie)
+
 - 330g Kerrygold butter (don't skimp)
 - 5 cups of raw rolled oats (no instant oats, the moisture defeats the purpose)
 - 1 cup of flour (ideally not soulless)

@@ -3,7 +3,7 @@ layout: post
 title: Linux in 2025
 subtitle: Who is the true nutter
 date:   2025-01-27
-published: true
+published: false
 tags: [ubuntu, fedora, arch]
 ---
 
